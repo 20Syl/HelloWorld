@@ -57,7 +57,6 @@
 			isa = PBXGroup;
 			children = (
 				E496F072163C515100571131 /* HelloWorld */,
-				E496F06B163C515100571131 /* Frameworks */,
 				E496F069163C515100571131 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -78,6 +77,7 @@
 				E496F070163C515100571131 /* CoreGraphics.framework */,
 			);
 			name = Frameworks;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		E496F072163C515100571131 /* HelloWorld */ = {
@@ -88,6 +88,7 @@
 				E496F084163C515100571131 /* MainStoryboard.storyboard */,
 				E496F087163C515100571131 /* HelloWorldViewController.h */,
 				E496F088163C515100571131 /* HelloWorldViewController.m */,
+				E496F06B163C515100571131 /* Frameworks */,
 				E496F073163C515100571131 /* Supporting Files */,
 			);
 			path = HelloWorld;
@@ -293,6 +294,7 @@
 				E496F08E163C515100571131 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

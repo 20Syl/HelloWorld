@@ -10,6 +10,6 @@
 
 @interface HelloWorldAppDelegate : UIResponder <UIApplicationDelegate>
 
-@property (strong, nonatomic) UIWindow *window; //git test
+@property (strong, nonatomic) UIWindow *window;
 
 @end
